@@ -1,0 +1,11 @@
+Model Information:
+* title:	Kingdom Key
+* source:	https://sketchfab.com/3d-models/kingdom-key-8ddf11bdcece4c638a759178922a913e
+* author:	agrimor (https://sketchfab.com/agrimor)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Kingdom Key" (https://sketchfab.com/3d-models/kingdom-key-8ddf11bdcece4c638a759178922a913e) by agrimor (https://sketchfab.com/agrimor) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
